@@ -45,3 +45,10 @@ Homebrew distribution repository for installing and maintaining Harnessclaw tool
 ## Mission
 
 We believe agent products should be useful, extensible, and easy to bring into everyday development workflows. Harnessclaw exists to make that stack more open, more practical, and easier to build on.
+
+## Quick Links
+
+- Organization: [github.com/harnessclaw](https://github.com/harnessclaw)
+- Repositories: [github.com/orgs/harnessclaw/repositories](https://github.com/orgs/harnessclaw/repositories)
+- Desktop app: [harnessclaw/harnessclaw](https://github.com/harnessclaw/harnessclaw)
+- Engine: [harnessclaw/harnessclaw-engine](https://github.com/harnessclaw/harnessclaw-engine)
